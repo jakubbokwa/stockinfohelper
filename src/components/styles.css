@@ -32,6 +32,21 @@ h1 {
   font-size: 3.5rem;
 }
 
+/* HERO TEXT */
+
+.hero h1 {
+  margin: 0.5rem 2rem;
+  font-size: 1.5rem;
+  color: var(--color-text);
+  border-bottom: 5px solid var(--color-2);
+  border-radius: 50%;
+  text-align: center;
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
+}
+
 /* NAVBAR */
 
 .navbar-body {
