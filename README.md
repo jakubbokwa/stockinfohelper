@@ -26,7 +26,7 @@ Type appropriate stock ticker (symbol) in the input field and click the button t
 
 ## Live preview:
 
-https://compassionate-swanson-8a3604.netlify.app/
+https://stockinfohelper.netlify.app/
 
 ## Contributing
 
